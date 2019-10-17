@@ -1,0 +1,11 @@
+C:\Users\ericbourne\source\repos\calculator\calculator\bin\Debug\netcoreapp3.0\calculator.exe
+C:\Users\ericbourne\source\repos\calculator\calculator\bin\Debug\netcoreapp3.0\calculator.deps.json
+C:\Users\ericbourne\source\repos\calculator\calculator\bin\Debug\netcoreapp3.0\calculator.runtimeconfig.json
+C:\Users\ericbourne\source\repos\calculator\calculator\bin\Debug\netcoreapp3.0\calculator.runtimeconfig.dev.json
+C:\Users\ericbourne\source\repos\calculator\calculator\bin\Debug\netcoreapp3.0\calculator.dll
+C:\Users\ericbourne\source\repos\calculator\calculator\bin\Debug\netcoreapp3.0\calculator.pdb
+C:\Users\ericbourne\source\repos\calculator\calculator\obj\Debug\netcoreapp3.0\calculator.csprojAssemblyReference.cache
+C:\Users\ericbourne\source\repos\calculator\calculator\obj\Debug\netcoreapp3.0\calculator.AssemblyInfoInputs.cache
+C:\Users\ericbourne\source\repos\calculator\calculator\obj\Debug\netcoreapp3.0\calculator.AssemblyInfo.cs
+C:\Users\ericbourne\source\repos\calculator\calculator\obj\Debug\netcoreapp3.0\calculator.dll
+C:\Users\ericbourne\source\repos\calculator\calculator\obj\Debug\netcoreapp3.0\calculator.pdb
